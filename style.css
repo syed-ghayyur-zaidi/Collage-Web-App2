@@ -1,0 +1,66 @@
+.copy_right_footer
+{
+         position:fixed;
+         color: white;
+         bottom:0;
+         width:100%;
+         font-size: 18px;;
+         line-height:3;
+         text-align:center;
+         text-shadow: 5px 5px 5px whitesmoke;
+}
+
+body
+{
+         font-family:'Special Elite', cursive;
+         background-color: darkgrey;
+         
+}
+
+h1
+{
+         font-family: sans-serif;
+         font-style: Bold;
+         font-weight: 400;
+         color: white;
+}
+
+h4
+{       
+         font-family: sans-serif;
+         font-style: bold;
+         color: white;
+}
+
+h3
+{
+         font-family: sans-serif;
+         font-style: bold;
+         color: white;
+}
+
+label
+{
+         font-family: sans-serif;
+         font-style: bold;
+         color: white;
+}
+
+#camera
+{
+  border: 10px solid white;
+  width: 300px;
+  height: 300px; 
+}
+
+img
+{
+         width: 600px;
+         height:300px;
+         padding: 30px;
+         box-shadow: 0 6px 8px 0 white;
+}
+
+img:hover{
+         border-radius:140px;
+}
